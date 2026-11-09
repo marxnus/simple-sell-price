@@ -1,0 +1,42 @@
+{
+  "SimpleSellPrice/Media/Icon.tga": {
+    "width": 64,
+    "height": 64,
+    "mode": "RGBA"
+  },
+  "art/banner.png": {
+    "width": 1280,
+    "height": 640,
+    "mode": "RGB"
+  },
+  "art/curseforge-icon.png": {
+    "width": 400,
+    "height": 400,
+    "mode": "RGB"
+  },
+  "art/favicon-16.png": {
+    "width": 16,
+    "height": 16,
+    "mode": "RGBA"
+  },
+  "art/favicon-32.png": {
+    "width": 32,
+    "height": 32,
+    "mode": "RGBA"
+  },
+  "art/favicon-48.png": {
+    "width": 48,
+    "height": 48,
+    "mode": "RGBA"
+  },
+  "art/feature-preview.png": {
+    "width": 1280,
+    "height": 720,
+    "mode": "RGB"
+  },
+  "art/icon-512.png": {
+    "width": 512,
+    "height": 512,
+    "mode": "RGBA"
+  }
+}

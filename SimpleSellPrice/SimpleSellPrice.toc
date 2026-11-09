@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Simple Sell Price
+## Notes: Unit sell prices by default. Hold Shift for the stack, or show both.
+## Author: meinyrdi
+## Version: 1.0.2
+## IconTexture: Interface\AddOns\SimpleSellPrice\Media\Icon
+## X-Website: https://github.com/marxnus/simple-sell-price
+## X-License: MIT
+## AllowLoadGameType: camelot
+## SavedVariables: SimpleSellPriceDB
+
+Settings.lua
+Core.lua
